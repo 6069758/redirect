@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/",
-      "destination": "https://lavender-mongoose-639363.hostingersite.com/main/",
-      "permanent": false
+      "destination": "https://lavender-mongoose-639363.hostingersite.com/main/"
     }
   ]
 }
