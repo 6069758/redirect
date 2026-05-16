@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://lavender-mongoose-639363.hostingersite.com/main/",
+      "permanent": false
+    }
+  ]
+}
